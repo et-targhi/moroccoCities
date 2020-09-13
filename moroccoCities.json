@@ -1,5 +1,4 @@
-{
-  "villes": [
+[
     {
       "id": "1",
       "ville": "Aïn Harrouda",
@@ -1971,4 +1970,3 @@
       "region": "5"
     }
   ]
-}
